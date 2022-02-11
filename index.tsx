@@ -21,6 +21,7 @@ class App extends Component<AppProps, AppState> {
       <div>
         <Hello name={this.state.name} />
         <p>this is demo branch</p>
+        <p>this is the branch demo</p>
       </div>
     );
   }
